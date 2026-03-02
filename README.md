@@ -9,4 +9,3 @@ I am also new to Github
 - I like learning new skills
 - I also like learning different languges.
 - i just started taking lesson on python. looking forward to it
--->
