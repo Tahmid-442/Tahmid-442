@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 
 I am currently an undergraduate student. My major is Software Engineering.
 I want to take Cyber Security as my MSc Major.
